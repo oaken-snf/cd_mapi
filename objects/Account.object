@@ -3,6 +3,7 @@
     <webLinks>
         <fullName>GoogleNews</fullName>
         <availability>online</availability>
+        <description>Updated label</description>
         <displayType>link</displayType>
         <encodingKey>UTF-8</encodingKey>
         <hasMenubar>false</hasMenubar>
@@ -11,7 +12,7 @@
         <height>600</height>
         <isResizable>true</isResizable>
         <linkType>url</linkType>
-        <masterLabel>Google News</masterLabel>
+        <masterLabel>Google News Updated</masterLabel>
         <openType>newWindow</openType>
         <position>none</position>
         <protected>false</protected>
