@@ -22,7 +22,7 @@
     </webLinks>
     <fields>
         <fullName>Active__c</fullName>
-        <description>Standard - update description 1</description>
+        <description>User 2 Work and description 3 resolved</description>
         <externalId>false</externalId>
         <label>Active</label>
         <required>false</required>
